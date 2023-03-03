@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/bygga-music/static/css/main.7cf897d9.css",
-    "main.js": "/bygga-music/static/js/main.4368b88a.js",
-    "static/js/787.f9ed3343.chunk.js": "/bygga-music/static/js/787.f9ed3343.chunk.js",
-    "static/media/applicationbg2.png": "/bygga-music/static/media/applicationbg2.70cbe7a0e9126cc6d256.png",
-    "static/media/applicationbg.png": "/bygga-music/static/media/applicationbg.b322422647641b32b028.png",
-    "static/media/BAUHS93.ttf": "/bygga-music/static/media/BAUHS93.6d785e39c9cd2bb2f181.ttf",
-    "index.html": "/bygga-music/index.html",
-    "main.7cf897d9.css.map": "/bygga-music/static/css/main.7cf897d9.css.map",
-    "main.4368b88a.js.map": "/bygga-music/static/js/main.4368b88a.js.map",
-    "787.f9ed3343.chunk.js.map": "/bygga-music/static/js/787.f9ed3343.chunk.js.map"
+    "main.css": "/static/css/main.5c4004a8.css",
+    "main.js": "/static/js/main.c08bbbd4.js",
+    "static/js/787.f9ed3343.chunk.js": "/static/js/787.f9ed3343.chunk.js",
+    "static/media/applicationbg2.png": "/static/media/applicationbg2.70cbe7a0e9126cc6d256.png",
+    "static/media/applicationbg.png": "/static/media/applicationbg.b322422647641b32b028.png",
+    "static/media/BAUHS93.ttf": "/static/media/BAUHS93.6d785e39c9cd2bb2f181.ttf",
+    "index.html": "/index.html",
+    "main.5c4004a8.css.map": "/static/css/main.5c4004a8.css.map",
+    "main.c08bbbd4.js.map": "/static/js/main.c08bbbd4.js.map",
+    "787.f9ed3343.chunk.js.map": "/static/js/787.f9ed3343.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7cf897d9.css",
-    "static/js/main.4368b88a.js"
+    "static/css/main.5c4004a8.css",
+    "static/js/main.c08bbbd4.js"
   ]
 }
